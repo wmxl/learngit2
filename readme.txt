@@ -12,4 +12,8 @@ fen zhi guan li ce lve
 
 yuan gong zuo
 
+<<<<<<< HEAD
 sushe de xiugai
+=======
+JiFang diannao de xiugai
+>>>>>>> abe5898856f300f7f6cabf8c3e274c0fd87db870
